@@ -6,5 +6,5 @@ The dataset contained multiple CSV files, including a file for each season of th
 These files contained information about player statistics for each match played in the IPL season, including the player's team, runs scored, balls faced, wickets taken, etc. 
 The data were merged and processed.
 Below is the link to the dataset. Feel free to click on the Kaggle dataset link.
-[(https://www.kaggle.com/datasets/anandkumarsahu09/ipl-player-stats-20162022)]
+https://www.kaggle.com/datasets/anandkumarsahu09/ipl-player-stats-20162022
 I would like to express our gratitude to the creator of this Kaggle dataset for providing such valuable data, which significantly contributed to the success of this project.

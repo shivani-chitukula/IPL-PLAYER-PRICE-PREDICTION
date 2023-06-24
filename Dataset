@@ -1,0 +1,10 @@
+The data set for this project is taken from Kaggle
+The Kaggle dataset "IPL Player Stats 2016-2022" was provided by user anandkumarsahu09. 
+This dataset contains information about batting and bowling statistics for all IPL players from 2016 to 2022. 
+The dataset is in CSV format.
+The dataset contained multiple CSV files, including a file for each season of the IPL from 2016 to 2022. 
+These files contained information about player statistics for each match played in the IPL season, including the player's team, runs scored, balls faced, wickets taken, etc. 
+The data were merged and processed.
+Below is the link to the dataset. Feel free to click on the Kaggle dataset link.
+https://www.kaggle.com/datasets/anandkumarsahu09/ipl-player-stats-20162022
+I would like to express our gratitude to the creator of this Kaggle dataset for providing such valuable data, which significantly contributed to the success of this project.
